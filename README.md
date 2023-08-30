@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @34amandat
 - 👀 I’m interested in ... landing a intership 
 - 🌱 I’m currently learning ... python and mobile application development
-- 💞️ I’m looking to collaborate on ... projects
+- 💞️ I’m looking to collaborate on ... projects, teams and anything in between
 - 📫 How to reach me ... linkin https://www.linkedin.com/in/amandathompson34
 
 <!---
